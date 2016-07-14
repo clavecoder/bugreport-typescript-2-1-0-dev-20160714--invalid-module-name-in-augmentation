@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "bugreport-typescript-2-1-0-dev-20160714--invalid-module-name-in-augmentation",
+  "version": "0.0.0",
+  "description": "typescript@next bug report repo.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "jsonschema": "^1.1.0",
+    "typescript": "^2.1.0-dev.20160714"
+  },
+  "devDependencies": {
+    "@types/node": "^4.0.29",
+    "tslint": "^3.14.0-dev.0",
+    "typescript": "^2.1.0-dev.20160714"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clavecoder/bugreport-typescript-2-1-0-dev-20160714--invalid-module-name-in-augmentation.git"
+  },
+  "author": "Kenneth Brubaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clavecoder/bugreport-typescript-2-1-0-dev-20160714--invalid-module-name-in-augmentation/issues"
+  },
+  "homepage": "https://github.com/clavecoder/bugreport-typescript-2-1-0-dev-20160714--invalid-module-name-in-augmentation#readme"
+}

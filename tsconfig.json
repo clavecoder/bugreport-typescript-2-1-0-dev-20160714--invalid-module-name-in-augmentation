@@ -1,0 +1,17 @@
+{
+
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "module": "commonjs",
+    "outDir": "dist/",
+    "sourceMap": true,
+  	"target": "es5",
+    //"typeRoots": ["./node_modules/@types/node"],
+    "types": ["node"]
+  },
+  "files": [
+    "./server.ts"
+  ],
+  "include": [
+    "./modules/**/*"
+  ]}
